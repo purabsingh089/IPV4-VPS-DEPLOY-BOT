@@ -1,6 +1,6 @@
 {
-    "TOKEN": "YOUR_DISCORD_BOT_TOKEN_HERE",
-    "PREFIX": "$",
+    "TOKEN": "MTU1Mjk1MzkzOTcwNjc3NzY2MA.GlnqX5.U6zXFPMmlEUEhoeC00x8dMBO2oYOGy-9BIxlaM",
+    "PREFIX": "*",
     "ADMIN_IDS": [1495728436495384688],
     "ANTINUKE_ENABLED": true,
     "DEFAULT_DATA_DIR": "./vps_data"
